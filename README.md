@@ -1,6 +1,6 @@
-Original code modified to create a page that displays the issues of https://github.com/angular/angular repository from the last 7 days.
+## Original code modified to create a page that displays the issues of https://github.com/angular/angular repository from the last 7 days.
 
-Items below left intentionally
+### Items below left intentionally.
 
 ------------------------------------------------------
 
