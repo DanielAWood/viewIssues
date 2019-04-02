@@ -1,3 +1,9 @@
+Original code modified to create a page that displays the issues of https://github.com/angular/angular repository from the last 7 days.
+
+Items below left intentionally
+
+------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
